@@ -121,6 +121,8 @@
 - { repo: othree/nginx-contrib-vim, on_ft: nginx }
 - { repo: IN3D/vim-raml, on_ft: raml }
 
+- { repo: nikvdp/ejs-syntax, on_ft: ejs}
+
 # ==========================================
 # Commands
 # --------
