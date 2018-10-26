@@ -191,6 +191,7 @@ Name           | Description
 [exu/pgsql.vim] | PostgreSQL syntax
 [othree/nginx-contrib-vim] | Fork official vim nginx
 [IN3D/vim-raml] | Syntax and language settings for RAML
+[nikvdp/ejs-syntax] | Syntax highlighting for EJS
 
 ### Commands
 
